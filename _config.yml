@@ -4,7 +4,7 @@ safe:           false
 # More in: https://github.com/flipside-org/climatescope/issues/221
 #domain:         http://localhost:4000
 #path_prefix:    
-domain:         http://global-climatescope.org
+domain:         http://2014.global-climatescope.org
 path_prefix:    
 
 # Address of climatescope's proxy server.
