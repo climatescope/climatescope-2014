@@ -1,7 +1,3 @@
----
-layout: null
----
-
 /* FLIPSIDE TEAM */
 
 Developer: Daniel da Silva
@@ -40,7 +36,7 @@ Location: Washington, D.C, USA
 
 /* SITE */
 
-Last update: {{ site.time | date: "%Y/%m/%d"}}
+Last update: 2016/06/06
 Standards: HTML5, CSS3, RWD 
 Components: Bootstrap (loosely based), Modernizr, jQuery, Selectivzr, Jekyll, AngularJS, D3.js, Mapbox, Natural Earth (data), Pandas                      
 Software: Sublime Text, Eclipse, Adobe Illustrator CC, GitHub (Mac)
