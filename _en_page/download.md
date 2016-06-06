@@ -13,7 +13,7 @@ arrange: full
       <p>Download the full Climatescope 2014 report.</p>
       <ul class="download-list">
         <li>
-          <a href="http://global-climatescope.org/en/download/reports/climatescope-2014-report-en.pdf" title="Download full report in PDF" class="bttn bttn-success download data-download">PDF <span class="badge">19Mb</span></a>
+          <a href="{{ site.domain }}{{ site.path_prefix }}/en/download/reports/climatescope-2014-report-en.pdf" title="Download full report in PDF" class="bttn bttn-success download data-download">PDF <span class="badge">19Mb</span></a>
         </li>
       </ul>
     </div>
@@ -25,10 +25,10 @@ arrange: full
       <p>Download the complete set of underlying data.</p>
       <ul class="download-list">
         <li>
-          <a href="http://global-climatescope.org/en/download/data/climatescope-full.csv" title="Download Climatescope data in CSV format" class="bttn bttn-success download data-download">CSV <span class="badge">0.2Mb</span></a>
+          <a href="{{ site.domain }}{{ site.path_prefix }}/en/download/data/climatescope-full.csv" title="Download Climatescope data in CSV format" class="bttn bttn-success download data-download">CSV <span class="badge">0.2Mb</span></a>
         </li>
         <li>
-          <a href="http://global-climatescope.org/en/download/model/climatescope-2014.xlsm" title="Download Climatescope model in Excel format" class="bttn bttn-success download data-download">Excel <span class="badge">5Mb</span></a>
+          <a href="{{ site.domain }}{{ site.path_prefix }}/en/download/model/climatescope-2014.xlsm" title="Download Climatescope model in Excel format" class="bttn bttn-success download data-download">Excel <span class="badge">5Mb</span></a>
         </li>
       </ul>
     </div>
@@ -40,7 +40,7 @@ arrange: full
       <p>Download the full methodology used in the Climatescope 2014.</p>
       <ul class="download-list">
         <li>
-          <a href="http://global-climatescope.org/en/download/docs/climatescope-2014-methodology-en.pdf" title="Download methodology in PDF" class="bttn bttn-success download data-download">PDF <span class="badge">0.4Mb</span></a>
+          <a href="{{ site.domain }}{{ site.path_prefix }}/en/download/docs/climatescope-2014-methodology-en.pdf" title="Download methodology in PDF" class="bttn bttn-success download data-download">PDF <span class="badge">0.4Mb</span></a>
         </li>
       </ul>
     </div>
